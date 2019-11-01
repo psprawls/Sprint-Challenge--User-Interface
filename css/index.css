@@ -58,6 +58,7 @@ html, body {
 
 h1, h2, h3, h4, h5 {
     font-size: 18px;
+    margin-top: 15px;
     margin-bottom: 15px;
     font-family: 'Rubik', sans-serif;
 }
@@ -278,4 +279,15 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+button {
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 12px;
+    font-size: 15px;
+    background-color: white;
+    padding: 10px 30px 10px 30px;
+    margin-top: 20px;
 }
